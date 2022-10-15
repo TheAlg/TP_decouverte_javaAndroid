@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_send">Send</string>
+    <string name="main_button">Singup</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="birth_date">Birthday</string>
+    <string name="domaine">Domaine</string>
+    <string name="phoneNumber">Phone</string>
+    <string name="createUserButton" translatable="false">Send</string>
+</resources>

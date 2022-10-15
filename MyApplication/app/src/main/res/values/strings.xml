@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="edit_message" translatable="false">Enter a message</string>
+    <string name="main_button">S\'inscrire</string>
+    <string name="firstName">Prénom</string>
+    <string name="lastName">Nom</string>
+    <string name="birth_date">Date de naissance</string>
+    <string name="domaine">Domaine</string>
+    <string name="phoneNumber">Téléphone</string>
+    <string name="back">Retour</string>
+    <string name="forward">Envoyer</string>
+    <string name="popup_window">popup text</string>
+    <string name="register_confirmation">Je certifie que toutes les informations remplies sont correctes</string>
+    <string name="button_send">envoyé</string>
+    <string name="createUserButton">enregistré</string>
+    <string name="title_activity_empty">empty activity</string>
+
+
+
+    <string name="call_button">Appel</string>
+    <string name="trainsScheduleButton">Reserver Train</string>
+    <string name="agendaButton">Agenda</string>
+    <string name="TrainTitle">Titre</string>
+    <string name="TrainSubtitle">Sous-titre</string>
+    <string name="trainTime">Heure</string>
+</resources>
